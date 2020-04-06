@@ -10,7 +10,6 @@ const {
 const Courses = require('../models/Course');
 
 const advancedResults = require('../middleware/advancedResults');
-
 const { protect, authorize } = require('../middleware/auth');
 
 //We are including this as a resource router in bootcamps so we add {mergeParams: true}
