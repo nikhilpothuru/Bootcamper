@@ -1,6 +1,6 @@
 # Bootcamper
 
-> Backend API that serves as a marketplace for educators to market their bootcamps and present their courses to their students
+Backend API that serves as a marketplace for educators to market their bootcamps and present their courses to their students
 
 ## Clone Repo
 
