@@ -27,7 +27,7 @@ npm start
 ```
 
 Deployed App link:
-https://devcamper-273506.wl.r.appspot.com/
+https://bootcamper-273508.appspot.com/
 
 Documentation:
 https://documenter.getpostman.com/view/9279430/SzYbxGZ4?version=latest
